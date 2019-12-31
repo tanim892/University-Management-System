@@ -1,0 +1,209 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    
+    @Styles.Render("~/Content/css")
+
+        @Scripts.Render("~/bundles/modernizr")
+   
+    <link href="~/assets/css/bootstrap.min.css" rel="stylesheet" />
+
+
+    <style>
+
+        /* ---- reset ---- */
+
+        /*body {
+            margin: 0;
+            font: normal 75% Arial, Helvetica, sans-serif;
+        }*/
+
+        canvas {
+            display: block;
+            vertical-align: bottom;
+        }
+
+        /* ---- particles.js container ---- */
+
+        #particles-js {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            background-color: #202729;
+            background-image: url("");
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: 50% 50%;
+        }
+        h2 {
+            color: #fff;
+        }
+        /* ---- stats.js ---- */
+
+      .count-particles {
+            background: #000022;
+            position: absolute;
+            top: 48px;
+            left: 0;
+            width: 80px;
+            color: #13E8E9;
+           
+            text-align: left;
+            text-indent: 4px;
+            line-height: 14px;
+            padding-bottom: 2px;
+            font-family: Helvetica, Arial, sans-serif;
+            font-weight: bold;
+        }
+
+
+        /*#stats,
+        .count-particles {
+            -webkit-user-select: none;
+        }*/
+
+      /*  #stats {
+            border-radius: 3px 3px 0 0;
+            overflow: hidden;
+        }
+
+        .count-particles {
+            border-radius: 0 0 3px 3px;
+        }*/
+         .form-horizontal {
+             margin-left: 39%;
+         }
+         .container {
+             position: absolute;
+         }
+        .control-label {
+            color: #fff;
+        }
+
+    </style>
+    
+</head>
+
+<body style="width: 1100px">
+    @**@
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+
+        <div class="container-fluid">
+
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="http://localhost:41153/Department/Create">Home</a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav">
+
+
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Department <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li>@Html.ActionLink("Department List", "Index", "Department")</li>
+                            <li>@Html.ActionLink("Save Department", "Create", "Department")</li>
+                            @*<li><a href="#">Something else here</a></li>
+                            <li role="separator" class="divider"></li>
+                            <li><a href="#">Separated link</a></li>
+                            <li role="separator" class="divider"></li>
+                            <li><a href="#">One more separated link</a></li>*@
+                        </ul>
+                    </li>
+                </ul>
+                <ul class="nav navbar-nav">
+
+
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Course <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li>@Html.ActionLink("Save Course", "Create", "Course")</li>
+                            <li>@Html.ActionLink("View Courses", "Index", "Course")</li>
+                        </ul>
+                    </li>
+                </ul>
+                <ul class="nav navbar-nav">
+
+
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Teacher <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li>@Html.ActionLink("Save Teacher", "Create", "Teacher")</li>
+                            <li>@Html.ActionLink("View Teachers", "Index", "Teacher")</li>
+                        </ul>
+                    </li>
+                </ul>
+                <ul class="nav navbar-nav">
+
+
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Course Assign <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li>@Html.ActionLink("Course Assign to Teacher", "Create", "CourseAssign")</li>
+                            <li>@Html.ActionLink("View Course Statics", "ViewCourseStatistics", "CourseAssign")</li>
+                            <li>@Html.ActionLink("Unassign Courses", "UnassignCourses", "Course")</li>
+                        </ul>
+                    </li>
+                </ul>
+                <ul class="nav navbar-nav">
+
+
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Student <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li>@Html.ActionLink("Register Student", "Create", "Student")</li>
+                            <li>@Html.ActionLink("Enroll Course", "Create", "EnrollCourse")</li>
+                            <li>@Html.ActionLink("View Result", "ViewResult", "EnrollCourse")</li>
+                            <li>@Html.ActionLink("Save Result", "SaveResult", "EnrollCourse")</li>
+                        </ul>
+                    </li>
+                </ul>
+            <ul class="nav navbar-nav">
+                        <li class="dropdown">
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Allocated Class Room <span class="caret"></span></a>
+                                    <ul class="dropdown-menu">
+                                        <li>@Html.ActionLink("Allocation Class Room", "Create", "ClassRoomAllocation")</li>
+                                        <li>@Html.ActionLink("Class Room Allocation List", "ClassRoomAllocationList", "ClassRoomAllocation")</li>
+                                        <li>@Html.ActionLink("Unallocate Class Room", "UnallocateClassRoom", "ClassRoomAllocation")</li>
+                                    </ul>
+                                </li>
+                            </ul>
+
+            </div><!-- /.navbar-collapse -->
+        </div><!-- /.container-fluid -->
+    </nav>
+    
+
+    <!-- stats - count particles -->
+    <div id="particles-js">
+        <div class="container body-content">
+            @RenderBody()
+           
+           
+        </div>
+    </div>
+    <script src="~/Scripts/particles.js"></script>
+    <script src="~/assets/js/app.js"></script>
+
+    <script src="~/assets/js/jquery.min.js"></script>
+<script src="~/assets/js/bootstrap.min.js"></script>
+   
+   @* @Scripts.Render("~/bundles/jquery")*@
+   @* @Scripts.Render("~/bundles/bootstrap")*@
+    @RenderSection("scripts", required: false)
+</body>
+</html>
+
+
+

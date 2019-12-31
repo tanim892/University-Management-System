@@ -1,0 +1,385 @@
+D:\dot net application\web application\MVC\BitmUniversityApp\BitmUniversityApp\bin\BitmUniversityApp.dll.config
+D:\dot net application\web application\MVC\BitmUniversityApp\BitmUniversityApp\bin\BitmUniversityApp.dll
+D:\dot net application\web application\MVC\BitmUniversityApp\BitmUniversityApp\bin\BitmUniversityApp.pdb
+D:\dot net application\web application\MVC\BitmUniversityApp\BitmUniversityApp\bin\Antlr3.Runtime.dll
+D:\dot net application\web application\MVC\BitmUniversityApp\BitmUniversityApp\bin\EntityFramework.dll
+D:\dot net application\web application\MVC\BitmUniversityApp\BitmUniversityApp\bin\EntityFramework.SqlServer.dll
+D:\dot net application\web application\MVC\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.AspNet.Identity.Core.dll
+D:\dot net application\web application\MVC\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\dot net application\web application\MVC\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\dot net application\web application\MVC\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.dll
+D:\dot net application\web application\MVC\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\dot net application\web application\MVC\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.Cookies.dll
+D:\dot net application\web application\MVC\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.dll
+D:\dot net application\web application\MVC\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.Facebook.dll
+D:\dot net application\web application\MVC\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.Google.dll
+D:\dot net application\web application\MVC\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\dot net application\web application\MVC\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.OAuth.dll
+D:\dot net application\web application\MVC\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.Twitter.dll
+D:\dot net application\web application\MVC\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Web.Infrastructure.dll
+D:\dot net application\web application\MVC\BitmUniversityApp\BitmUniversityApp\bin\Newtonsoft.Json.dll
+D:\dot net application\web application\MVC\BitmUniversityApp\BitmUniversityApp\bin\Owin.dll
+D:\dot net application\web application\MVC\BitmUniversityApp\BitmUniversityApp\bin\System.Web.Helpers.dll
+D:\dot net application\web application\MVC\BitmUniversityApp\BitmUniversityApp\bin\System.Web.Mvc.dll
+D:\dot net application\web application\MVC\BitmUniversityApp\BitmUniversityApp\bin\System.Web.Optimization.dll
+D:\dot net application\web application\MVC\BitmUniversityApp\BitmUniversityApp\bin\System.Web.Razor.dll
+D:\dot net application\web application\MVC\BitmUniversityApp\BitmUniversityApp\bin\System.Web.WebPages.Deployment.dll
+D:\dot net application\web application\MVC\BitmUniversityApp\BitmUniversityApp\bin\System.Web.WebPages.dll
+D:\dot net application\web application\MVC\BitmUniversityApp\BitmUniversityApp\bin\System.Web.WebPages.Razor.dll
+D:\dot net application\web application\MVC\BitmUniversityApp\BitmUniversityApp\bin\WebGrease.dll
+D:\dot net application\web application\MVC\BitmUniversityApp\BitmUniversityApp\bin\System.Web.Helpers.xml
+D:\dot net application\web application\MVC\BitmUniversityApp\BitmUniversityApp\bin\System.Web.Mvc.xml
+D:\dot net application\web application\MVC\BitmUniversityApp\BitmUniversityApp\bin\System.Web.Optimization.xml
+D:\dot net application\web application\MVC\BitmUniversityApp\BitmUniversityApp\bin\System.Web.Razor.xml
+D:\dot net application\web application\MVC\BitmUniversityApp\BitmUniversityApp\bin\System.Web.WebPages.xml
+D:\dot net application\web application\MVC\BitmUniversityApp\BitmUniversityApp\bin\System.Web.WebPages.Deployment.xml
+D:\dot net application\web application\MVC\BitmUniversityApp\BitmUniversityApp\bin\System.Web.WebPages.Razor.xml
+D:\dot net application\web application\MVC\BitmUniversityApp\BitmUniversityApp\bin\Newtonsoft.Json.xml
+D:\dot net application\web application\MVC\BitmUniversityApp\BitmUniversityApp\bin\Antlr3.Runtime.pdb
+D:\dot net application\web application\MVC\BitmUniversityApp\BitmUniversityApp\bin\EntityFramework.xml
+D:\dot net application\web application\MVC\BitmUniversityApp\BitmUniversityApp\bin\EntityFramework.SqlServer.xml
+D:\dot net application\web application\MVC\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.AspNet.Identity.Core.xml
+D:\dot net application\web application\MVC\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\dot net application\web application\MVC\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\dot net application\web application\MVC\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.xml
+D:\dot net application\web application\MVC\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\dot net application\web application\MVC\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.xml
+D:\dot net application\web application\MVC\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.Facebook.xml
+D:\dot net application\web application\MVC\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.Cookies.xml
+D:\dot net application\web application\MVC\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.OAuth.xml
+D:\dot net application\web application\MVC\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.Google.xml
+D:\dot net application\web application\MVC\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.Twitter.xml
+D:\dot net application\web application\MVC\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\dot net application\web application\MVC\BitmUniversityApp\BitmUniversityApp\obj\Debug\BitmUniversityApp.csprojResolveAssemblyReference.cache
+D:\dot net application\web application\MVC\BitmUniversityApp\BitmUniversityApp\obj\Debug\BitmUniversityApp.dll
+D:\dot net application\web application\MVC\BitmUniversityApp\BitmUniversityApp\obj\Debug\BitmUniversityApp.pdb
+D:\dot net application\web application\MVC\BitmUniversityApp\BitmUniversityApp\obj\Debug\BitmUniversityApp.Migrations.v1.resources
+D:\dot net application\web application\MVC\BitmUniversityApp\BitmUniversityApp\obj\Debug\BitmUniversityApp.csproj.GenerateResource.Cache
+D:\dot net application\web application\MVC\BitmUniversityApp\BitmUniversityApp\obj\Debug\BitmUniversityApp.Migrations.v2.resources
+D:\dot net application\web application\MVC\BitmUniversityApp\BitmUniversityApp\obj\Debug\BitmUniversityApp.Migrations.v21.resources
+D:\dot net application\web application\MVC\BitmUniversityApp\BitmUniversityApp\obj\Debug\BitmUniversityApp.Migrations.v3.resources
+D:\dot net application\web application\MVC\BitmUniversityApp\BitmUniversityApp\obj\Debug\BitmUniversityApp.Migrations.v4.resources
+D:\dot net application\web application\MVC\BitmUniversityApp\BitmUniversityApp\obj\Debug\BitmUniversityApp.Migrations.v5.resources
+D:\dot net application\web application\MVC\BitmUniversityApp\BitmUniversityApp\obj\Debug\BitmUniversityApp.Migrations.v51.resources
+D:\dot net application\web application\MVC\BitmUniversityApp\BitmUniversityApp\obj\Debug\BitmUniversityApp.Migrations.v6.resources
+D:\C# coding\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\BitmUniversityApp.dll.config
+D:\C# coding\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\BitmUniversityApp.dll
+D:\C# coding\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\BitmUniversityApp.pdb
+D:\C# coding\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Antlr3.Runtime.dll
+D:\C# coding\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\EntityFramework.dll
+D:\C# coding\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\EntityFramework.SqlServer.dll
+D:\C# coding\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.AspNet.Identity.Core.dll
+D:\C# coding\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\C# coding\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\C# coding\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.dll
+D:\C# coding\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\C# coding\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.Cookies.dll
+D:\C# coding\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.dll
+D:\C# coding\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.Facebook.dll
+D:\C# coding\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.Google.dll
+D:\C# coding\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\C# coding\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.OAuth.dll
+D:\C# coding\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.Twitter.dll
+D:\C# coding\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Web.Infrastructure.dll
+D:\C# coding\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Newtonsoft.Json.dll
+D:\C# coding\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Owin.dll
+D:\C# coding\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\System.Web.Helpers.dll
+D:\C# coding\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\System.Web.Mvc.dll
+D:\C# coding\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\System.Web.Optimization.dll
+D:\C# coding\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\System.Web.Razor.dll
+D:\C# coding\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\System.Web.WebPages.Deployment.dll
+D:\C# coding\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\System.Web.WebPages.dll
+D:\C# coding\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\System.Web.WebPages.Razor.dll
+D:\C# coding\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\WebGrease.dll
+D:\C# coding\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\System.Web.Helpers.xml
+D:\C# coding\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\System.Web.Mvc.xml
+D:\C# coding\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\System.Web.Optimization.xml
+D:\C# coding\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\System.Web.Razor.xml
+D:\C# coding\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\System.Web.WebPages.xml
+D:\C# coding\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\System.Web.WebPages.Deployment.xml
+D:\C# coding\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\System.Web.WebPages.Razor.xml
+D:\C# coding\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Newtonsoft.Json.xml
+D:\C# coding\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Antlr3.Runtime.pdb
+D:\C# coding\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\EntityFramework.xml
+D:\C# coding\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\EntityFramework.SqlServer.xml
+D:\C# coding\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.AspNet.Identity.Core.xml
+D:\C# coding\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\C# coding\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\C# coding\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.xml
+D:\C# coding\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\C# coding\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.xml
+D:\C# coding\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.Facebook.xml
+D:\C# coding\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.Cookies.xml
+D:\C# coding\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.OAuth.xml
+D:\C# coding\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.Google.xml
+D:\C# coding\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.Twitter.xml
+D:\C# coding\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\C# coding\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\obj\Debug\BitmUniversityApp.csprojResolveAssemblyReference.cache
+D:\C# coding\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\obj\Debug\BitmUniversityApp.Migrations.v1.resources
+D:\C# coding\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\obj\Debug\BitmUniversityApp.Migrations.v2.resources
+D:\C# coding\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\obj\Debug\BitmUniversityApp.Migrations.v21.resources
+D:\C# coding\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\obj\Debug\BitmUniversityApp.Migrations.v3.resources
+D:\C# coding\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\obj\Debug\BitmUniversityApp.Migrations.v4.resources
+D:\C# coding\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\obj\Debug\BitmUniversityApp.Migrations.v5.resources
+D:\C# coding\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\obj\Debug\BitmUniversityApp.Migrations.v51.resources
+D:\C# coding\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\obj\Debug\BitmUniversityApp.Migrations.v6.resources
+D:\C# coding\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\obj\Debug\BitmUniversityApp.csproj.GenerateResource.Cache
+D:\C# coding\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\obj\Debug\BitmUniversityApp.csproj.CoreCompileInputs.cache
+D:\C# coding\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\obj\Debug\BitmUniversityApp.dll
+D:\C# coding\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\obj\Debug\BitmUniversityApp.pdb
+E:\BITM\Application Files\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\BitmUniversityApp.dll.config
+E:\BITM\Application Files\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\BitmUniversityApp.dll
+E:\BITM\Application Files\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\BitmUniversityApp.pdb
+E:\BITM\Application Files\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Antlr3.Runtime.dll
+E:\BITM\Application Files\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\EntityFramework.dll
+E:\BITM\Application Files\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\EntityFramework.SqlServer.dll
+E:\BITM\Application Files\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.AspNet.Identity.Core.dll
+E:\BITM\Application Files\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\BITM\Application Files\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\BITM\Application Files\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.dll
+E:\BITM\Application Files\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\BITM\Application Files\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.Cookies.dll
+E:\BITM\Application Files\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.dll
+E:\BITM\Application Files\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.Facebook.dll
+E:\BITM\Application Files\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.Google.dll
+E:\BITM\Application Files\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\BITM\Application Files\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.OAuth.dll
+E:\BITM\Application Files\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.Twitter.dll
+E:\BITM\Application Files\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Web.Infrastructure.dll
+E:\BITM\Application Files\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Newtonsoft.Json.dll
+E:\BITM\Application Files\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Owin.dll
+E:\BITM\Application Files\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\System.Web.Helpers.dll
+E:\BITM\Application Files\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\System.Web.Mvc.dll
+E:\BITM\Application Files\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\System.Web.Optimization.dll
+E:\BITM\Application Files\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\System.Web.Razor.dll
+E:\BITM\Application Files\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\System.Web.WebPages.Deployment.dll
+E:\BITM\Application Files\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\System.Web.WebPages.dll
+E:\BITM\Application Files\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\System.Web.WebPages.Razor.dll
+E:\BITM\Application Files\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\WebGrease.dll
+E:\BITM\Application Files\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\System.Web.Helpers.xml
+E:\BITM\Application Files\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\System.Web.Mvc.xml
+E:\BITM\Application Files\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\System.Web.Optimization.xml
+E:\BITM\Application Files\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\System.Web.Razor.xml
+E:\BITM\Application Files\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\System.Web.WebPages.xml
+E:\BITM\Application Files\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\System.Web.WebPages.Deployment.xml
+E:\BITM\Application Files\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\System.Web.WebPages.Razor.xml
+E:\BITM\Application Files\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Newtonsoft.Json.xml
+E:\BITM\Application Files\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Antlr3.Runtime.pdb
+E:\BITM\Application Files\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\EntityFramework.xml
+E:\BITM\Application Files\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\EntityFramework.SqlServer.xml
+E:\BITM\Application Files\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.AspNet.Identity.Core.xml
+E:\BITM\Application Files\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\BITM\Application Files\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\BITM\Application Files\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.xml
+E:\BITM\Application Files\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\BITM\Application Files\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.xml
+E:\BITM\Application Files\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.Facebook.xml
+E:\BITM\Application Files\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.Cookies.xml
+E:\BITM\Application Files\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.OAuth.xml
+E:\BITM\Application Files\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.Google.xml
+E:\BITM\Application Files\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.Twitter.xml
+E:\BITM\Application Files\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\BITM\Application Files\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\obj\Debug\BitmUniversityApp.csprojResolveAssemblyReference.cache
+E:\BITM\Application Files\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\obj\Debug\BitmUniversityApp.Migrations.v1.resources
+E:\BITM\Application Files\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\obj\Debug\BitmUniversityApp.Migrations.v2.resources
+E:\BITM\Application Files\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\obj\Debug\BitmUniversityApp.Migrations.v21.resources
+E:\BITM\Application Files\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\obj\Debug\BitmUniversityApp.Migrations.v3.resources
+E:\BITM\Application Files\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\obj\Debug\BitmUniversityApp.Migrations.v4.resources
+E:\BITM\Application Files\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\obj\Debug\BitmUniversityApp.Migrations.v5.resources
+E:\BITM\Application Files\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\obj\Debug\BitmUniversityApp.Migrations.v51.resources
+E:\BITM\Application Files\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\obj\Debug\BitmUniversityApp.Migrations.v6.resources
+E:\BITM\Application Files\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\obj\Debug\BitmUniversityApp.csproj.GenerateResource.Cache
+E:\BITM\Application Files\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\obj\Debug\BitmUniversityApp.dll
+E:\BITM\Application Files\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\obj\Debug\BitmUniversityApp.pdb
+C:\Users\Trainer 402\Downloads\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\BitmUniversityApp.dll.config
+C:\Users\Trainer 402\Downloads\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\BitmUniversityApp.dll
+C:\Users\Trainer 402\Downloads\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\BitmUniversityApp.pdb
+C:\Users\Trainer 402\Downloads\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Antlr3.Runtime.dll
+C:\Users\Trainer 402\Downloads\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\EntityFramework.dll
+C:\Users\Trainer 402\Downloads\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Trainer 402\Downloads\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Trainer 402\Downloads\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Trainer 402\Downloads\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Trainer 402\Downloads\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.dll
+C:\Users\Trainer 402\Downloads\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Trainer 402\Downloads\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Trainer 402\Downloads\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.dll
+C:\Users\Trainer 402\Downloads\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Trainer 402\Downloads\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Trainer 402\Downloads\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Trainer 402\Downloads\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Trainer 402\Downloads\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Trainer 402\Downloads\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Trainer 402\Downloads\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Newtonsoft.Json.dll
+C:\Users\Trainer 402\Downloads\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Owin.dll
+C:\Users\Trainer 402\Downloads\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\System.Web.Helpers.dll
+C:\Users\Trainer 402\Downloads\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\System.Web.Mvc.dll
+C:\Users\Trainer 402\Downloads\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\System.Web.Optimization.dll
+C:\Users\Trainer 402\Downloads\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\System.Web.Razor.dll
+C:\Users\Trainer 402\Downloads\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Trainer 402\Downloads\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\System.Web.WebPages.dll
+C:\Users\Trainer 402\Downloads\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Trainer 402\Downloads\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\WebGrease.dll
+C:\Users\Trainer 402\Downloads\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\System.Web.Helpers.xml
+C:\Users\Trainer 402\Downloads\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\System.Web.Mvc.xml
+C:\Users\Trainer 402\Downloads\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\System.Web.Optimization.xml
+C:\Users\Trainer 402\Downloads\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\System.Web.Razor.xml
+C:\Users\Trainer 402\Downloads\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\System.Web.WebPages.xml
+C:\Users\Trainer 402\Downloads\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Trainer 402\Downloads\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Trainer 402\Downloads\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Newtonsoft.Json.xml
+C:\Users\Trainer 402\Downloads\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Antlr3.Runtime.pdb
+C:\Users\Trainer 402\Downloads\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\EntityFramework.xml
+C:\Users\Trainer 402\Downloads\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Trainer 402\Downloads\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Trainer 402\Downloads\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Trainer 402\Downloads\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Trainer 402\Downloads\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.xml
+C:\Users\Trainer 402\Downloads\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Trainer 402\Downloads\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.xml
+C:\Users\Trainer 402\Downloads\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Trainer 402\Downloads\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Trainer 402\Downloads\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Trainer 402\Downloads\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Trainer 402\Downloads\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Trainer 402\Downloads\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Trainer 402\Downloads\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\obj\Debug\BitmUniversityApp.csprojResolveAssemblyReference.cache
+C:\Users\Trainer 402\Downloads\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\obj\Debug\BitmUniversityApp.Migrations.v1.resources
+C:\Users\Trainer 402\Downloads\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\obj\Debug\BitmUniversityApp.Migrations.v2.resources
+C:\Users\Trainer 402\Downloads\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\obj\Debug\BitmUniversityApp.Migrations.v21.resources
+C:\Users\Trainer 402\Downloads\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\obj\Debug\BitmUniversityApp.Migrations.v3.resources
+C:\Users\Trainer 402\Downloads\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\obj\Debug\BitmUniversityApp.Migrations.v4.resources
+C:\Users\Trainer 402\Downloads\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\obj\Debug\BitmUniversityApp.Migrations.v5.resources
+C:\Users\Trainer 402\Downloads\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\obj\Debug\BitmUniversityApp.Migrations.v51.resources
+C:\Users\Trainer 402\Downloads\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\obj\Debug\BitmUniversityApp.Migrations.v6.resources
+C:\Users\Trainer 402\Downloads\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\obj\Debug\BitmUniversityApp.csproj.GenerateResource.Cache
+C:\Users\Trainer 402\Downloads\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\obj\Debug\BitmUniversityApp.dll
+C:\Users\Trainer 402\Downloads\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\obj\Debug\BitmUniversityApp.pdb
+C:\Users\ASUS\Desktop\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\BitmUniversityApp.dll.config
+C:\Users\ASUS\Desktop\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\BitmUniversityApp.dll
+C:\Users\ASUS\Desktop\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\BitmUniversityApp.pdb
+C:\Users\ASUS\Desktop\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Antlr3.Runtime.dll
+C:\Users\ASUS\Desktop\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\EntityFramework.dll
+C:\Users\ASUS\Desktop\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Desktop\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ASUS\Desktop\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ASUS\Desktop\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ASUS\Desktop\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.dll
+C:\Users\ASUS\Desktop\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ASUS\Desktop\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ASUS\Desktop\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.dll
+C:\Users\ASUS\Desktop\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ASUS\Desktop\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ASUS\Desktop\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ASUS\Desktop\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ASUS\Desktop\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ASUS\Desktop\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ASUS\Desktop\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Owin.dll
+C:\Users\ASUS\Desktop\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\System.Web.Helpers.dll
+C:\Users\ASUS\Desktop\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\System.Web.Mvc.dll
+C:\Users\ASUS\Desktop\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\System.Web.Optimization.dll
+C:\Users\ASUS\Desktop\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\System.Web.Razor.dll
+C:\Users\ASUS\Desktop\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ASUS\Desktop\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\System.Web.WebPages.dll
+C:\Users\ASUS\Desktop\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\ASUS\Desktop\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\WebGrease.dll
+C:\Users\ASUS\Desktop\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\System.Web.Helpers.xml
+C:\Users\ASUS\Desktop\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\System.Web.Mvc.xml
+C:\Users\ASUS\Desktop\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\System.Web.Optimization.xml
+C:\Users\ASUS\Desktop\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\System.Web.Razor.xml
+C:\Users\ASUS\Desktop\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\System.Web.WebPages.xml
+C:\Users\ASUS\Desktop\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ASUS\Desktop\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\ASUS\Desktop\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Newtonsoft.Json.xml
+C:\Users\ASUS\Desktop\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Antlr3.Runtime.pdb
+C:\Users\ASUS\Desktop\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\EntityFramework.xml
+C:\Users\ASUS\Desktop\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Desktop\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ASUS\Desktop\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ASUS\Desktop\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ASUS\Desktop\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.xml
+C:\Users\ASUS\Desktop\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ASUS\Desktop\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.xml
+C:\Users\ASUS\Desktop\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ASUS\Desktop\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ASUS\Desktop\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ASUS\Desktop\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ASUS\Desktop\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ASUS\Desktop\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ASUS\Desktop\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\obj\Debug\BitmUniversityApp.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\obj\Debug\BitmUniversityApp.Migrations.v1.resources
+C:\Users\ASUS\Desktop\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\obj\Debug\BitmUniversityApp.Migrations.v2.resources
+C:\Users\ASUS\Desktop\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\obj\Debug\BitmUniversityApp.Migrations.v21.resources
+C:\Users\ASUS\Desktop\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\obj\Debug\BitmUniversityApp.Migrations.v3.resources
+C:\Users\ASUS\Desktop\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\obj\Debug\BitmUniversityApp.Migrations.v4.resources
+C:\Users\ASUS\Desktop\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\obj\Debug\BitmUniversityApp.Migrations.v5.resources
+C:\Users\ASUS\Desktop\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\obj\Debug\BitmUniversityApp.Migrations.v51.resources
+C:\Users\ASUS\Desktop\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\obj\Debug\BitmUniversityApp.Migrations.v6.resources
+C:\Users\ASUS\Desktop\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\obj\Debug\BitmUniversityApp.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\obj\Debug\BitmUniversityApp.dll
+C:\Users\ASUS\Desktop\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\obj\Debug\BitmUniversityApp.pdb
+G:\BITM\Project\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\BitmUniversityApp.dll.config
+G:\BITM\Project\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\BitmUniversityApp.dll
+G:\BITM\Project\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\BitmUniversityApp.pdb
+G:\BITM\Project\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Antlr3.Runtime.dll
+G:\BITM\Project\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\EntityFramework.dll
+G:\BITM\Project\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\EntityFramework.SqlServer.dll
+G:\BITM\Project\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.AspNet.Identity.Core.dll
+G:\BITM\Project\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\BITM\Project\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\BITM\Project\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.dll
+G:\BITM\Project\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\BITM\Project\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.Cookies.dll
+G:\BITM\Project\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.dll
+G:\BITM\Project\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.Facebook.dll
+G:\BITM\Project\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.Google.dll
+G:\BITM\Project\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\BITM\Project\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.OAuth.dll
+G:\BITM\Project\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.Twitter.dll
+G:\BITM\Project\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Web.Infrastructure.dll
+G:\BITM\Project\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Newtonsoft.Json.dll
+G:\BITM\Project\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Owin.dll
+G:\BITM\Project\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\System.Web.Helpers.dll
+G:\BITM\Project\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\System.Web.Mvc.dll
+G:\BITM\Project\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\System.Web.Optimization.dll
+G:\BITM\Project\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\System.Web.Razor.dll
+G:\BITM\Project\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\System.Web.WebPages.Deployment.dll
+G:\BITM\Project\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\System.Web.WebPages.dll
+G:\BITM\Project\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\System.Web.WebPages.Razor.dll
+G:\BITM\Project\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\WebGrease.dll
+G:\BITM\Project\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\System.Web.Helpers.xml
+G:\BITM\Project\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\System.Web.Mvc.xml
+G:\BITM\Project\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\System.Web.Optimization.xml
+G:\BITM\Project\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\System.Web.Razor.xml
+G:\BITM\Project\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\System.Web.WebPages.xml
+G:\BITM\Project\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\System.Web.WebPages.Deployment.xml
+G:\BITM\Project\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\System.Web.WebPages.Razor.xml
+G:\BITM\Project\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Newtonsoft.Json.xml
+G:\BITM\Project\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Antlr3.Runtime.pdb
+G:\BITM\Project\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\EntityFramework.xml
+G:\BITM\Project\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\EntityFramework.SqlServer.xml
+G:\BITM\Project\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.AspNet.Identity.Core.xml
+G:\BITM\Project\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\BITM\Project\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\BITM\Project\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.xml
+G:\BITM\Project\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\BITM\Project\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.xml
+G:\BITM\Project\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.Facebook.xml
+G:\BITM\Project\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.Cookies.xml
+G:\BITM\Project\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.OAuth.xml
+G:\BITM\Project\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.Google.xml
+G:\BITM\Project\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.Twitter.xml
+G:\BITM\Project\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\BITM\Project\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\obj\Debug\BitmUniversityApp.csprojResolveAssemblyReference.cache
+G:\BITM\Project\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\obj\Debug\BitmUniversityApp.Migrations.v1.resources
+G:\BITM\Project\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\obj\Debug\BitmUniversityApp.Migrations.v2.resources
+G:\BITM\Project\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\obj\Debug\BitmUniversityApp.Migrations.v21.resources
+G:\BITM\Project\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\obj\Debug\BitmUniversityApp.Migrations.v3.resources
+G:\BITM\Project\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\obj\Debug\BitmUniversityApp.Migrations.v4.resources
+G:\BITM\Project\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\obj\Debug\BitmUniversityApp.Migrations.v5.resources
+G:\BITM\Project\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\obj\Debug\BitmUniversityApp.Migrations.v51.resources
+G:\BITM\Project\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\obj\Debug\BitmUniversityApp.Migrations.v6.resources
+G:\BITM\Project\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\obj\Debug\BitmUniversityApp.csproj.GenerateResource.Cache
+G:\BITM\Project\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\obj\Debug\BitmUniversityApp.dll
+G:\BITM\Project\Univeristy-Web-Application-master\BitmUniversityApp\BitmUniversityApp\obj\Debug\BitmUniversityApp.pdb

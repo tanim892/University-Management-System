@@ -1,0 +1,75 @@
+﻿@model BitmUniversityApp.Models.Department
+
+@{
+    ViewBag.Title = "Create";
+
+}
+<style>
+   
+    .col-md-offset-2 {
+        margin-left: 22.666667%;
+    }
+    .container {
+        width: 1131px;
+    }
+    .text-center {
+        text-align: center;
+        margin-left: 226px;
+        margin-bottom: 55px;
+    }
+</style>
+
+
+
+
+@using (Html.BeginForm()) 
+{
+    
+    @Html.AntiForgeryToken()
+        <h2 class="text-center">Save Department</h2>
+    if (ViewBag.Message != null)
+{
+    <div class="row">
+        <div class="col-sm-6 col-sm-offset-4">
+            <div class="alert alert-@ViewBag.MessageType">
+                @Html.Raw(ViewBag.Message);
+            </div>
+        </div>
+    </div>
+}
+    
+    <div class="form-horizontal col-md-offset-4">
+    
+     
+        @Html.ValidationSummary(true)
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.DeptCode, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.TextBoxFor(model => model.DeptCode, new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.DeptCode)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.DeptName, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.TextBoxFor(model => model.DeptName,  new { @class = "form-control" } )
+               
+                @Html.ValidationMessageFor(model => model.DeptName)
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10 col-md-push-3">
+                <input type="submit" value="Save" class="btn btn-success" />
+            </div>
+        </div>
+    </div>
+}
+
+
+@section Scripts {
+   <script src="~/assets/js/jquery.validate.min.js"></script>
+<script src="~/assets/js/jquery.validate.unobtrusive.min.js"></script>
+}

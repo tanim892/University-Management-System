@@ -1,0 +1,93 @@
+﻿@model BitmUniversityApp.Models.ClassSchedule
+@{
+    ViewBag.Title = "ClassRoomAllocationList";
+}
+<style>
+    #particles-js {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        background-color: #fff;
+        background-image: url('');
+        
+      
+      
+    }
+     .col-md-offset-3 {
+         margin-left: 19%;
+         margin-top: 200px;
+         display: table;
+         position: absolute;
+         z-index: 1;
+     }
+</style>
+<h1 class="text-center" style=" margin-left: 229px; margin-top: 66px;">Class Room Allocation List</h1>
+
+<div class="col-sm-4"></div>
+<div class="col-sm-4 col-md-offset-1" style="padding-top: 10px">
+    <div class="panel panel-primary">
+        <!-- Default panel contents -->
+        <div class="panel-heading" style="text-align: center">
+            <h4><strong>Class Schedule and Room Allocation Information</strong></h4>
+        </div>
+        <div class="panel-body">
+            <table class="table table-striped">
+                <tr>
+                    <td>@Html.LabelFor(x => x.DepartmentId)</td>
+                    <td>
+                        <select id="DepartmentId" class="form-control">
+                            <option value="">Select department</option>
+                            @foreach (var aDepartment in ViewBag.Departments)
+                            {
+                                <option value="@aDepartment.Id">@aDepartment.DeptCode</option>
+                            }
+                        </select>
+                    </td>
+                    <td>@Html.ValidationMessageFor(m => m.DepartmentId)</td>
+                </tr>
+            </table>
+        </div>
+    </div>
+</div>
+<div class="col-sm-4"></div>
+<div class="container">
+    <div class="col-sm-2"></div>
+    <div class="col-sm-8 col-md-offset-3">
+        <table id="SchduleTable" class=" table table-hover table-bordered">
+            <thead class="table-striped">
+                <tr>
+                    <th class="info" style="width: 150px;">Course Code</th>
+                    <th class="success" style="width: 220px;">Course Name</th>
+                    <th class="danger" style="width: 350px;">Schedule Info</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+    </div>
+    <div class="col-sm-2">
+    </div>
+</div>
+
+@section Scripts {
+<script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+    <script>
+                $(document).ready(function () {
+                    $("#DepartmentId").change(function () {
+                        $('#SchduleTable tbody').empty();
+                        var deptId = $("#DepartmentId").val();
+                        var json = { deptId: deptId, };
+                        $.ajax({
+                            type: "POST",
+                            url: '@Url.Action("GetCoursesByDeptId", "ClassRoomAllocation")',
+                            contentType: "application/json; charset=utf-8",
+                            data: JSON.stringify(json),
+                            success: function (data) {
+                                $.each(data, function (key, value) {
+                                    $("#SchduleTable tbody").append('<tr><td>' + value.CCode + '</td><td>' + value.CName + '</td><td>' + value.ScheduleInfo + '</td></tr>');
+                                });
+                            }
+                        });
+                    });
+                });
+    </script>
+}

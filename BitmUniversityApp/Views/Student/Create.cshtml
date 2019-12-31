@@ -1,0 +1,143 @@
+﻿@model BitmUniversityApp.Models.Student
+
+@{
+    ViewBag.Title = "Create";
+/*    Layout = "~/Views/Shared/student_LayoutPage.cshtml";*/
+}
+<style>
+    .form-horizontal {
+        margin-left: 0px;
+        padding: 0px;
+    }
+    .form-group {
+        margin: 0;
+        padding: 0px;
+    }
+        .form-group .a {
+            width: 281px;
+        }
+        .row {
+            margin-top: 10px;
+        }
+    h2 {
+        margin-left: 87px;
+    }
+</style>
+<h2 class="text-center">Student Registration</h2>
+<div class="row">
+    <div class="col-md-5"></div>
+
+    <div class="col-md-5">
+        @using (Html.BeginForm("Create", "Student", FormMethod.Post, new { @class = "form", role = "form" }))
+{
+    @Html.AntiForgeryToken()
+
+
+    <div class="form-horizontal">
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="form-group">
+                    @Html.LabelFor(model => model.Name, htmlAttributes: new { @class = "control-label" })
+                    <div class="input-group">
+                        <span class="input-group-addon"></span>
+                        @Html.TextBoxFor(model => model.Name, new { @class = "form-control" })
+                    </div>
+                    @Html.ValidationMessageFor(model => model.Name, "", new { @class = "text-danger" })
+                </div>
+            </div>
+        </div>
+
+
+        <div class="row">
+            <div class="col-sm-4">
+                <div class="form-group">
+                    @Html.LabelFor(model => model.Email, htmlAttributes: new { @class = "control-label" })
+                    <div class="input-group">
+                        <span class="input-group-addon"></span>
+                        @Html.TextBoxFor(model => model.Email, new { @class = "form-control a" })
+                    </div>
+                    @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-4">
+                <div class="form-group" >
+                    @Html.LabelFor(model => model.ContactNo, htmlAttributes: new { @class = "control-label" })
+                    <div class="input-group">
+                        <span class="input-group-addon"></span>
+                        @Html.TextBoxFor(model => model.ContactNo, new { @class = "form-control a" })
+                    </div>
+
+                    @Html.ValidationMessageFor(model => model.ContactNo, "", new { @class = "text-danger" })
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-4">
+                <div class="form-group">
+                    @Html.LabelFor(model => model.Date, htmlAttributes: new { @class = "control-label" })
+                    <div class="input-group">
+                        <span class="input-group-addon"></span>
+                        @Html.TextBoxFor(model => model.Date, "{0:MM/dd/yyyy}", new { @class = "form-control a" })
+                    </div>
+                    @Html.ValidationMessageFor(model => model.Date, "", new { @class = "text-danger" })
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="form-group">
+                    @Html.LabelFor(model => model.Address, htmlAttributes: new { @class = "control-label" })
+                    <div class="input-group">
+                        <span class="input-group-addon"></span>
+                        @Html.TextAreaFor(model => model.Address, new { @class = "form-control black" })
+                    </div>
+                    @Html.ValidationMessageFor(model => model.Address, "", new { @class = "text-danger" })
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="form-group">
+                    @Html.LabelFor(model => model.DepartmentId, htmlAttributes: new { @class = "control-label" })
+                    <div class="input-group">
+                        <span class="input-group-addon"></span>
+                        @Html.DropDownListFor(model => model.DepartmentId, null, "--Select--", new { @class = "form-control" })
+                    </div>
+                    @Html.ValidationMessageFor(model => model.DepartmentId, "", new { @class = "text-danger" })
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <input type="submit" value="Register" class="btn btn-success" />
+        </div>
+    </div>
+
+}
+    </div>
+    <div class="col-md-2"></div>
+</div>
+
+
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+@section scripts
+{
+
+    <script src="~/assets/js/jquery.validate.min.js"></script>
+    <script src="~/assets/js/jquery.validate.unobtrusive.min.js"></script>
+<script src="~/assets/js/bootstrap-datepicker.min.js"></script>
+    @*  @Html.Partial("~/Views/Shared/_jQueryValidatorBootstrapStyle.cshtml")*@
+   
+
+    <script>
+        $(function () {
+            $('#Date').datepicker();
+        });
+    </script>
+
+}
